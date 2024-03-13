@@ -19,7 +19,7 @@
     + If requiring a new drafting, be sure to include all elements.
 
 ### README.md
-+ Asignment file 
++ This Asignment File 
 
 ## Requested Revisions
 1. **Drawings Only**

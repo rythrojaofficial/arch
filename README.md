@@ -12,7 +12,7 @@
 + There is a file called Arch-Enko-Final.xopp which is the file used to annotate the main file. Please ignore.
 
 
-### Arch-Enko-Final-annotated.pdf 
+### [Arch-Enko-Final_annotated.pdf](Arch-Enko-Final_annotated.pdf)
 + The annotated building plans with marked revisions to be made.  
 
 + If you can make the revisions without creating a new drawing, go for it.  
